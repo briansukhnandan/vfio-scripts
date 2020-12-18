@@ -1,7 +1,7 @@
 #!/bin/sh
 
-systemctl start libvirtd.service
-systemctl start virtlogd.socket
+sudo systemctl start libvirtd.service
+sudo systemctl start virtlogd.socket
 
 
 
