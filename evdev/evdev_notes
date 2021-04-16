@@ -1,0 +1,5 @@
+Keyboard id to passthrough:
+/dev/input/by-id/usb-Corsair_Corsair_STRAFE_RGB_Gaming_Keyboard_1302A039AEAA1003550EE8B6F5001942-if01-event-kbd
+
+Mouse id to passthrough:
+/dev/input/by-id/usb-Logitech_USB_Receiver-if02-event-mouse
