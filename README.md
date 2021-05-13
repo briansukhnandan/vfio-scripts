@@ -4,4 +4,4 @@ VM Details:
   - AMD RX 560 4GB (Guest GPU for Windows10, MacOSX) (must utilize vendor-reset kernel module)
   - 16GB DDR4 RAM 
   - 2TB ssd passthrough for VM.
-  - MSI MAG B550 Tomahawk (Bad choice for IOMMU isolation, fixed with ACS override patch.)
+  - MSI MAG B550 Tomahawk (Bad choice for IOMMU isolation, fixed with ACS override patch included in Linux-Zen kernel.)
